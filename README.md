@@ -14,3 +14,9 @@
 
 ![PrivateTest_cm](https://user-images.githubusercontent.com/65455865/171817598-87ad98d9-e704-40bf-b483-c8934e14ffef.png)
 ![PrivateTestResult](https://user-images.githubusercontent.com/65455865/171817613-21c7ba76-0c39-4c68-8099-1a2ba7a285f1.png)
+
+## FER2013 Dataset ##
+- Dataset from https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data
+Image Properties: 48 x 48 pixels (2304 bytes)
+labels: 0=Angry, 1=Disgust, 2=Fear, 3=Happy, 4=Sad, 5=Surprise, 6=Neutral
+The training set consists of 28,709 examples. The public test set consists of 3,589 examples. The private test set consists of another 3,589 examples.
